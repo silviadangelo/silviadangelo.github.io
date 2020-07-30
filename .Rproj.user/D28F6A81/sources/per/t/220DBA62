@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596117434884.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1732174873",
+    "id" : "220DBA62",
+    "lastKnownWriteTime" : 1596117500,
+    "last_content_update" : 1596117500,
+    "path" : "C:/Users/Silvia/Documents/GitHub/silviadangelo.github.io/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "3"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

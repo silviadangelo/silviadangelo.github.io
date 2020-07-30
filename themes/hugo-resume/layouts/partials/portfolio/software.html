@@ -1,0 +1,15 @@
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="software">
+          <div class="my-auto"  id="software-content">
+            <h2 class="mb-5">Software</h2>
+            {{ range .Site.Data.software }}
+              <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                <div class="resume-content mr-auto">
+                 <h3 class="mb-0">{{ .nome }}</h3>
+            <div class="subheading mb-3">{{ .des1 | markdownify }}</div>
+             <div class="subsubheading mb-3">{{ .des2 | markdownify }}</div>
+          </div>
+        </div>
+    {{ end }}
+  </div>
+
+</section>

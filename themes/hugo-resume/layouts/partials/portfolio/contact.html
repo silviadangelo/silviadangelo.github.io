@@ -1,0 +1,19 @@
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="contact">
+          <div class="my-auto"  id="contact-content">
+            <h2 class="mb-5">Contact</h2>
+            {{ range .Site.Data.contact }}
+              <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                <div class="resume-content mr-auto">
+                 <h3 class="mb-0">{{ .nome1 }}</h3>
+            <div class="subheading mb-3">{{ .nome2 | markdownify }}</div>
+             <div class="subsubheading mb-3">{{ .nome3 | markdownify }}</div>
+            <div class="subsubheading mb-3">{{ .nome4 | markdownify }}</div>
+            <div class="subsubheading mb-3">{{ .nome5 | markdownify }}</div>
+            <div class="subsubheading mb-3">{{ .nome6 | markdownify }}</div>
+            <div class="subsubheading mb-3">{{ .nome7 | markdownify }}</div>
+          </div>
+        </div>
+    {{ end }}
+  </div>
+
+</section>
