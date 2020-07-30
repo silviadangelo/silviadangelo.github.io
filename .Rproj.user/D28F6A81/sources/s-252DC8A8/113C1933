@@ -5,7 +5,7 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1590213980",
+    "hash" : "0",
     "id" : "113C1933",
     "lastKnownWriteTime" : 1596117507,
     "last_content_update" : 1596117507,
@@ -13,7 +13,7 @@
     "project_path" : "themes/hugo-resume/layouts/partials/nav.html",
     "properties" : {
         "cursorPosition" : "57,68",
-        "scrollLine" : "47"
+        "scrollLine" : "0"
     },
     "relative_order" : 4,
     "source_on_save" : false,
