@@ -1,13 +1,13 @@
 {
-    "path" : "C:/Users/Silvia/Documents/GitHub/silviadangelo.github.io/data",
+    "path" : "C:/Users/Silvia/Documents/GitHub/silviadangelo.github.io/publications",
     "sortOrder" : [
-        {
-            "ascending" : false,
-            "columnIndex" : 3
-        },
         {
             "ascending" : true,
             "columnIndex" : 2
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 3
         }
     ]
 }
