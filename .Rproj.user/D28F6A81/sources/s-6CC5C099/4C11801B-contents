@@ -1,0 +1,66 @@
+baseurl = "https://silviadangelo.github.io/"
+publishDir = "C:/Users/Silvia/Documents/GitHub/silviadangelo.github.io"
+languageCode = "en-us"
+title = "Silvia D'Angelo"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Silvia"
+    lastName = "D'Angelo"
+    address = "Post Doc in Statistics at University College Dublin"
+   # phone = "1-555-555-1234"
+   # contactNote = "Dev Tools Engineer"
+    profileImage = "img/foto_profilo.jpg"
+    email = "silvia.dangelo@ucd.ie"
+    description = "Post Doc in Statistics at University College Dublin"
+    favicon = "/favicon.ico"
+    # what sections
+    showEducation = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = true
+    showExperience = false
+    showTalks = true
+    showSoftware = true
+    showContact = true
+   # showQr = true
+
+#[[params.handles]]
+#    name = "LinkedIn"
+#    link = "https://www.linkedin.com/in/edwardwebb/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/silviadangelo"
+    
+[[params.handles]]
+    name = "Google Scholar"
+   # icon = "google-scholar"
+   # icon_pack = "ai"
+   #icon_pack = "ai"
+    link = "https://scholar.google.com/citations?user=Uk0b8MgAAAAJ&hl=en"
+
+
+[[params.handles]]
+name = "Twitter"
+  #  icon = "twitter"
+ #   icon_pack = "fa"
+    link = "https://twitter.com/sildangelo1"    
+
+#[[params.handles]]
+#    name = "Bitbucket"
+#    link = "https://bitbucket.org/eddiewebb/"
+
+#[[params.handles]]
+ #   name = "Stack Overflow"
+#    link = "https://stackoverflow.com/users/story/82880"
+ #   icon = "stack-overflow"
+
+#[[params.handles]]
+#    name = "Keybase"
+#    link = "https://keybase.io/edwardawebb"
+#    icon = "keybase"
+
+#[params.google.analytics]
+#    trackerID = "XX-123446-01"
