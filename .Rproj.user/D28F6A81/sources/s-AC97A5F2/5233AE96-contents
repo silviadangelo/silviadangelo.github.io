@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Combining biomarker and food intake data: calibration equations for citrus intake.</title>
-  <meta property="og:title" content="Combining biomarker and food intake data: calibration equations for citrus intake." />
+  <title>Modelling heterogeneity in latent space models for multidimensional networks.</title>
+  <meta property="og:title" content="Modelling heterogeneity in latent space models for multidimensional networks." />
   <meta property="og:image" content="/img/foto_profilo.jpg" />
   <meta name="description" content="Post Doc in Statistics at University College Dublin">
   <meta property="og:description" content="Post Doc in Statistics at University College Dublin" />
@@ -42,19 +42,7 @@
         <a class="nav-link js-scroll-trigger" href="/#about">About</a>
       </li>
       
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#skills">Skills</a>
-          </li>
       
-      
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#projects">Projects</a>
-          </li>
-      
-      
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#open">Open Source</a>
-          </li>
       
       
           <li class="nav-item">
@@ -62,13 +50,24 @@
           </li>
       
       
+       
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#experience">Experience</a>
+            <a class="nav-link js-scroll-trigger" href="/#talks">Talks</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#software">Software</a>
           </li>
       
       
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#education">Education</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#contact">Contact</a>
           </li>
       
       
@@ -97,7 +96,7 @@
 
 
 <li class="breadcrumb-item active">
-  <a href="/publications/americanjournalofclinicalnutrition2020-copy/">Combining biomarker and food intake data: calibration equations for citrus intake.</a>
+  <a href="/publications/arxiv2019/">Modelling heterogeneity in latent space models for multidimensional networks.</a>
 </li>
 
   </ol>
@@ -108,12 +107,11 @@
 
 <section class="resume-section p-3 p-lg-5 d-flex d-column content">
   <div class="my-auto">
-    <h2 class="mb-0"><span class="text-primary">Combining biomarker and food intake data: calibration equations for citrus intake.</span></h2>
-    <p><a href="https://academic.oup.com/ajcn/article/110/4/977/5552381">Link to full Article</a></p>
+    <h2 class="mb-0"><span class="text-primary">Modelling heterogeneity in latent space models for multidimensional networks.</span></h2>
+    <p><a href="https://arxiv.org/abs/1807.03874">Link to full Preprint</a></p>
     
-    <p>D’Angelo, S., Gormley, I.C., McNulty, B.A., Nugent, A.P., Walton, J., Flynn, A. and Brennan, L. (2020).</p>
-<p>American Journal of Clinical Nutrition.</p>
-<p>Bio-Intake Shiny App: <a href="https://adiet.shinyapps.io/Bio-Intake/">https://adiet.shinyapps.io/Bio-Intake/</a></p>
+    <p>D'Angelo,S., Alfò, M. and Murphy, T.B. (2019).</p>
+<p>arXiv.</p>
 
     <p class="mt-3">
     <ul class="tags">
