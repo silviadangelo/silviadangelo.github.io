@@ -48,9 +48,9 @@ Metabolomic based approaches have gained much attention in recent years due to t
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/publications/statneer20/</guid>
-      <description>D'Angelo,S., Alfò, M. and Murphy, T.B. (2020).
-      Statistica Neerlandica.
-      Multidimensional network data can have different levels of complexity, as nodes may be characterized by heterogeneous individual‐specific features, which may vary across the networks. This article introduces a class of models for multidimensional network data, where different levels of heterogeneity within and between networks can be considered. The proposed framework is developed in the family of latent space models, and it aims to distinguish symmetric relations between the nodes and node‐specific features.</description>
+      <description>D&#39;Angelo,S., Alfò, M. and Murphy, T.B. (2020).
+Statistica Neerlandica.
+Multidimensional network data can have different levels of complexity, as nodes may be characterized by heterogeneous individual‐specific features, which may vary across the networks. This article introduces a class of models for multidimensional network data, where different levels of heterogeneity within and between networks can be considered. The proposed framework is developed in the family of latent space models, and it aims to distinguish symmetric relations between the nodes and node‐specific features.</description>
     </item>
     
     <item>
@@ -59,7 +59,7 @@ Metabolomic based approaches have gained much attention in recent years due to t
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/publications/arxiv2020/</guid>
-      <description>D'Angelo,S., Alfò, M. and Fop, M. (2020).
+      <description>D&#39;Angelo,S., Alfò, M. and Fop, M. (2020).
 arXiv.
 Network data are relational data recorded among a group of individuals, the nodes. Multiple relations observed among the same set of nodes may be represented by means of different networks, using a so-called multidimensional network, or multiplex. We propose a latent space model for network data that enables clustering of the nodes in a latent space, with clusters in this space corresponding to communities of nodes.</description>
     </item>
