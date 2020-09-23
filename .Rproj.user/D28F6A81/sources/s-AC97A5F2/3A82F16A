@@ -1,22 +1,22 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1600854771397.000,
+    "created" : 1600854850906.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "C93EC1EB",
+    "id" : "3A82F16A",
     "lastKnownWriteTime" : 1600855006,
     "last_content_update" : 1600855006,
-    "path" : "C:/Users/Silvia/Documents/GitHub/silviadangelo.github.io/index.html",
-    "project_path" : "index.html",
+    "path" : "C:/Users/Silvia/Documents/GitHub/silviadangelo.github.io/index.xml",
+    "project_path" : "index.xml",
     "properties" : {
-        "cursorPosition" : "264,24",
-        "scrollLine" : "276"
+        "cursorPosition" : "49,31",
+        "scrollLine" : "38"
     },
-    "relative_order" : 2,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "html"
+    "type" : "xml"
 }
