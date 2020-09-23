@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Modelling heterogeneity in latent space models for multidimensional networks.</title>
-  <meta property="og:title" content="Modelling heterogeneity in latent space models for multidimensional networks." />
+  <title>Preprints and Publications</title>
+  <meta property="og:title" content="Preprints and Publications" />
   <meta property="og:image" content="/img/foto_profilo.jpg" />
   <meta name="description" content="Post Doc in Statistics at University College Dublin">
   <meta property="og:description" content="Post Doc in Statistics at University College Dublin" />
@@ -83,20 +83,13 @@
 
 
 
-
-
 <li class="breadcrumb-item">
   <a href="/">Home</a>
 </li>
 
 
-<li class="breadcrumb-item">
-  <a href="/publications/">Preprints and Publications</a>
-</li>
-
-
 <li class="breadcrumb-item active">
-  <a href="/publications/arxiv2019/">Modelling heterogeneity in latent space models for multidimensional networks.</a>
+  <a href="/publications/">Preprints and Publications</a>
 </li>
 
   </ol>
@@ -105,20 +98,114 @@
 
 
 
-<section class="resume-section p-3 p-lg-5 d-flex d-column content">
-  <div class="my-auto">
-    <h2 class="mb-0"><span class="text-primary">Modelling heterogeneity in latent space models for multidimensional networks.</span></h2>
-    <p><a href="https://arxiv.org/abs/1807.03874">Link to full Preprint</a></p>
+<section class="resume-section p-3 p-lg-5 d-flex flex-column">
+  <div class="my-auto" id="projects-content">
+    <h1 id="preprints-and-publications">Preprints and Publications</h1>
+    <p></p>
     
-    <p>D'Angelo,S., Alfò, M. and Murphy, T.B. (2019).</p>
-<p>arXiv.</p>
-
-    <p class="mt-3">
-    <ul class="tags">
+        
+<div class="resume-item d-flex flex-column flex-md-row mb-5">
+  <div class="publication-content mr-auto">
+    <h3 class="mb-0">Preprint - <a href="/publications/arxiv2020/">Model-based clustering for multivariate networks.</a></h3>
+    <div>D'Angelo,S., Alfò, M. and Fop, M. <br /> arXiv.</div>
+    <p><ul class="tags">
     
 </ul>
+</p>
+  </div>
+  <div class="resume-date text-md-right">
+    <span class="text-primary">August 2020</span>
+    <img src="" style="max-width:250px;padding:5px;"/>
+  </div>
+</div>
 
-    </p>
+    
+        
+<div class="resume-item d-flex flex-column flex-md-row mb-5">
+  <div class="publication-content mr-auto">
+    <h3 class="mb-0">Article - <a href="/publications/americanjournalofclinicalnutrition2020/">Combining biomarker and food intake data: calibration equations for citrus intake.</a></h3>
+    <div>D’Angelo, S., Gormley, I.C., McNulty, B.A., Nugent, A.P., Walton, J., Flynn, A. and Brennan, L. <br /> American Journal of Clinical Nutrition.</div>
+    <p><ul class="tags">
+    
+</ul>
+</p>
+  </div>
+  <div class="resume-date text-md-right">
+    <span class="text-primary">August 2019</span>
+    <img src="" style="max-width:250px;padding:5px;"/>
+  </div>
+</div>
+
+    
+        
+<div class="resume-item d-flex flex-column flex-md-row mb-5">
+  <div class="publication-content mr-auto">
+    <h3 class="mb-0">Preprint - <a href="/publications/statneer20/">Modelling heterogeneity in latent space models for multidimensional networks.</a></h3>
+    <div>D'Angelo,S., Alfò, M. and Murphy, T.B. <br /> arXiv.</div>
+    <p><ul class="tags">
+    
+</ul>
+</p>
+  </div>
+  <div class="resume-date text-md-right">
+    <span class="text-primary">June 2019</span>
+    <img src="" style="max-width:250px;padding:5px;"/>
+  </div>
+</div>
+
+    
+        
+<div class="resume-item d-flex flex-column flex-md-row mb-5">
+  <div class="publication-content mr-auto">
+    <h3 class="mb-0">Article - <a href="/publications/annalsofappliedstatistics2019/">Latent space modeling of multidimensional networks with application to the exchange of votes in the Eurovision Song Contest.</a></h3>
+    <div>D’Angelo, S., Murphy, T.B. and Alfò, M. <br /> Annals of Applied Statistics.</div>
+    <p><ul class="tags">
+    
+</ul>
+</p>
+  </div>
+  <div class="resume-date text-md-right">
+    <span class="text-primary">June 2019</span>
+    <img src="" style="max-width:250px;padding:5px;"/>
+  </div>
+</div>
+
+    
+        
+<div class="resume-item d-flex flex-column flex-md-row mb-5">
+  <div class="publication-content mr-auto">
+    <h3 class="mb-0">Article - <a href="/publications/demographicresearch2018/">A network approach to studying cause-of-death interrelations.</a></h3>
+    <div>Rivellini, G., Salvatore, M.A., Egidi, V. and D’Angelo, S. <br /> Demographic Research.</div>
+    <p><ul class="tags">
+    
+</ul>
+</p>
+  </div>
+  <div class="resume-date text-md-right">
+    <span class="text-primary">January 2018</span>
+    <img src="" style="max-width:250px;padding:5px;"/>
+  </div>
+</div>
+
+    
+        
+<div class="resume-item d-flex flex-column flex-md-row mb-5">
+  <div class="publication-content mr-auto">
+    <h3 class="mb-0">Book chapter - <a href="/publications/springerproceedings2018/">Understanding dependency patterns in structural and functional brain connectivity through fMRI and DTI data.</a></h3>
+    <div>Crispino, M., D’Angelo, S., Ranciati, S., and Mira, A. <br /> Contributions to Neural Data Science, proceedings of Startup Research, Springer Proceedings in Mathematics and Statistics.</div>
+    <p><ul class="tags">
+    
+</ul>
+</p>
+  </div>
+  <div class="resume-date text-md-right">
+    <span class="text-primary">January 2018</span>
+    <img src="" style="max-width:250px;padding:5px;"/>
+  </div>
+</div>
+
+    
+    
   </div>
 </section>
 
