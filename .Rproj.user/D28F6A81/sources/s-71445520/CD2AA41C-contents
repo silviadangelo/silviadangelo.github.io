@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Rest APIs</title>
-  <meta property="og:title" content="Rest APIs" />
+  <title>Others</title>
+  <meta property="og:title" content="Others" />
   <meta property="og:image" content="/img/foto_profilo.jpg" />
   <meta name="description" content="Post Doc in Statistics at University College Dublin">
   <meta property="og:description" content="Post Doc in Statistics at University College Dublin" />
@@ -43,6 +43,10 @@
       </li>
       
       
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#projects">Projects</a>
+          </li>
+      
       
       
           <li class="nav-item">
@@ -50,24 +54,9 @@
           </li>
       
       
-       
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#talks">Talks</a>
-          </li>
-      
-      
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#software">Software</a>
-          </li>
-      
       
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#education">Education</a>
-          </li>
-      
-      
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#contact">Contact</a>
           </li>
       
       
@@ -77,34 +66,79 @@
 
   <div class="container-fluid p-0">
     
+<nav aria-label="breadcrumb">
+  <ol  class="breadcrumb">
+    
 
-<section class="resume-section p-3 p-lg-5 d-flex d-column">
-  <div class="my-auto">
 
-  Content tagged with  <span class="tag">Rest APIs</span>
-    <ul>
-      
-          <li>
-             <a href="/projects/contributions/deploy-triggers/">Atlassian Deployment Triggers</a>
-         </li>
-      
-          <li>
-             <a href="/projects/contributions/shields-docker/">Added Docker Build Status Badge to shields.io</a>
-         </li>
-      
-          <li>
-             <a href="/projects/creations/bosh-agents/">BOSH release for Bamboo &amp; Remote Agents</a>
-         </li>
-      
-          <li>
-             <a href="/projects/creations/marketplace/">Atlassian Marketplace Plugins</a>
-         </li>
-      
-          <li>
-             <a href="/projects/creations/docker-marketplace/">Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</a>
-         </li>
-      
-    </ul>
+
+
+
+<li class="breadcrumb-item">
+  <a href="/">Home</a>
+</li>
+
+
+<li class="breadcrumb-item">
+  <a href="/projects/">Projects</a>
+</li>
+
+
+<li class="breadcrumb-item active">
+  <a href="/projects/others/">Others</a>
+</li>
+
+  </ol>
+</nav>
+
+
+
+
+<section class="resume-section p-3 p-lg-5 d-flex flex-column">
+  <div class="my-auto" id="projects-content">
+    <h1 id="others">Others</h1>
+    <p><!-- raw HTML omitted -->
+</p>
+    
+        
+<h3 class="mb-3"><a href="/projects/others/bosh-agents/">BOSH release for Bamboo &amp; Remote Agents</a></h3>
+<div class="resume-item d-flex flex-column flex-md-row mb-3">
+
+  <div class="resume-content " style="width:200px;!important;">
+    
+      <img src="/img/aafb-agent-ids-match-bamboo.png" style="max-height:150px;max-width:150px;"/>
+    
+  </div>
+  <div class="resume-date">
+    <p>BOSH (Bosh Outer SHell) "<em>is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.<p>
+    <p class><a href="/projects/others/bosh-agents/">Read more..</a></p>
+  </div>
+</div>
+<div><ul class="tags">
+    
+      <li><a class="tag" href="/tags/devops">DevOps</a></li>
+    
+      <li><a class="tag" href="/tags/bosh">BOSH</a></li>
+    
+      <li><a class="tag" href="/tags/java">Java</a></li>
+    
+      <li><a class="tag" href="/tags/atlassian-ecosystem">Atlassian Ecosystem</a></li>
+    
+      <li><a class="tag" href="/tags/monit">monit</a></li>
+    
+      <li><a class="tag" href="/tags/python">python</a></li>
+    
+      <li><a class="tag" href="/tags/xml/xslt">xml/xslt</a></li>
+    
+      <li><a class="tag" href="/tags/bash/shell">bash/shell</a></li>
+    
+      <li><a class="tag" href="/tags/rest-apis">REST APIs</a></li>
+    
+</ul>
+</div>
+
+    
+    
   </div>
 </section>
 

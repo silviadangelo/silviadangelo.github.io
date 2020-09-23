@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600855627903.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8B4E9B6E",
+    "lastKnownWriteTime" : 1600855771,
+    "last_content_update" : 1600855771864,
+    "path" : "C:/Users/Silvia/Documents/GitHub/silviadangelo.github.io/data/talks.json",
+    "project_path" : "data/talks.json",
+    "properties" : {
+        "cursorPosition" : "3,23",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "json"
+}
