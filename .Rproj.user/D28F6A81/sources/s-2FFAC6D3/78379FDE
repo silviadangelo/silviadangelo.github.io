@@ -3,22 +3,22 @@
     "path": "C:/Users/Silvia/Documents/GitHub/silviadangelo.github.io/themes/hugo-resume/static/css/resume.css",
     "project_path": "themes/hugo-resume/static/css/resume.css",
     "type": "css",
-    "hash": "2146412481",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1642697902144.0,
     "source_on_save": false,
     "relative_order": 7,
     "properties": {
-        "cursorPosition": "145,17",
-        "scrollLine": "138"
+        "cursorPosition": "137,27",
+        "scrollLine": "136"
     },
     "folds": "",
-    "lastKnownWriteTime": 1642698429,
+    "lastKnownWriteTime": 1642698565,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1642698429411,
+    "last_content_update": 1642698565050,
     "read_only": false,
     "read_only_alternatives": []
 }
