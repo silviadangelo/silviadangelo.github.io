@@ -1,9 +1,9 @@
 {
     "id": "FA6A0E63",
-    "path": "C:/Users/Silvia/Documents/GitHub/silviadangelo.github.io/data/publications.json",
-    "project_path": "data/publications.json",
+    "path": "C:/Users/Silvia/Documents/GitHub/silviadangelo.github.io/data/research.json",
+    "project_path": "data/research.json",
     "type": "json",
-    "hash": "0",
+    "hash": "3259647325",
     "contents": "",
     "dirty": false,
     "created": 1642688874779.0,
@@ -19,7 +19,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1642688900950,
+    "last_content_update": 1642688900,
     "read_only": false,
     "read_only_alternatives": []
 }
