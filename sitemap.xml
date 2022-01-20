@@ -19,54 +19,6 @@
   </url>
   
   <url>
-    <loc>https://silviadangelo.github.io/publications/bioinformatics20/</loc>
-    <lastmod>2020-07-30T00:00:00+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  
-  <url>
-    <loc>https://silviadangelo.github.io/publications/multimarker20/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  
-  <url>
-    <loc>https://silviadangelo.github.io/publications/statneerlandica20/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  
-  <url>
-    <loc>https://silviadangelo.github.io/publications/arxiv2020/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <priority>0.3</priority>
-  </url>
-  
-  <url>
-    <loc>https://silviadangelo.github.io/publications/americanjournalofclinicalnutrition2020/</loc>
-    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
-    <priority>0.25</priority>
-  </url>
-  
-  <url>
-    <loc>https://silviadangelo.github.io/publications/annalsofappliedstatistics2019/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://silviadangelo.github.io/publications/demographicresearch2018/</loc>
-    <lastmod>2018-01-26T00:00:00+00:00</lastmod>
-    <priority>0.1</priority>
-  </url>
-  
-  <url>
-    <loc>https://silviadangelo.github.io/publications/springerproceedings2018/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0.09</priority>
-  </url>
-  
-  <url>
     <loc>https://silviadangelo.github.io/projects/contributions/shields-docker/</loc>
     <priority>0.8</priority>
   </url>
@@ -74,12 +26,6 @@
   <url>
     <loc>https://silviadangelo.github.io/projects/contributions/schema-org/</loc>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://silviadangelo.github.io/publications/</loc>
-    <lastmod>2020-07-30T00:00:00+00:00</lastmod>
-    <priority>0.6</priority>
   </url>
   
   <url>
