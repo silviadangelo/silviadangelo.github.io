@@ -3,22 +3,22 @@
     "path": "C:/Users/Silvia/Documents/GitHub/silviadangelo.github.io/data/contact.json",
     "project_path": "data/contact.json",
     "type": "json",
-    "hash": "2128113045",
+    "hash": "3259647325",
     "contents": "",
     "dirty": false,
     "created": 1642688622703.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "cursorPosition": "7,37",
+        "cursorPosition": "7,44",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1642688670,
+    "lastKnownWriteTime": 1642688786,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1642688670190,
+    "last_content_update": 1642688786213,
     "read_only": false,
     "read_only_alternatives": []
 }
