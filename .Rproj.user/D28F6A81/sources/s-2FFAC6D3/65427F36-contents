@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>bash/shell</title>
-  <meta property="og:title" content="bash/shell" />
+  <title>Atlassian Deployment Triggers</title>
+  <meta property="og:title" content="Atlassian Deployment Triggers" />
   <meta property="og:image" content="https://silviadangelo.github.io/img/foto_profilo.jpg" />
   <meta name="description" content="Assistant Professor in Statistics at University College Dublin">
   <meta property="og:description" content="Assistant Professor in Statistics at University College Dublin" />
@@ -73,22 +73,61 @@
 
   <div class="container-fluid p-0">
     
+<nav aria-label="breadcrumb">
+  <ol  class="breadcrumb">
+    
+
+
+
+
+
+
+
+<li class="breadcrumb-item">
+  <a href="https://silviadangelo.github.io/">Home</a>
+</li>
+
+
+<li class="breadcrumb-item">
+  <a href="https://silviadangelo.github.io/projects/">Projects</a>
+</li>
+
+
+<li class="breadcrumb-item">
+  <a href="https://silviadangelo.github.io/projects/contributions/">Software</a>
+</li>
+
+
+<li class="breadcrumb-item active">
+  <a href="https://silviadangelo.github.io/projects/contributions/deploy-triggers/">Atlassian Deployment Triggers</a>
+</li>
+
+  </ol>
+</nav>
+
+
+
 
 <section class="resume-section p-3 p-lg-5 d-flex d-column">
   <div class="my-auto">
+    <h2 class="mb-0"><span class="text-primary">Atlassian Deployment Triggers</span></h2>
+    <p>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</p>
 
-  Content tagged with  <span class="tag">bash/shell</span>
-    <ul>
-      
-          <li>
-             <a href="https://silviadangelo.github.io/projects/creations/bosh-agents/">BOSH release for Bamboo &amp; Remote Agents</a>
-         </li>
-      
-          <li>
-             <a href="https://silviadangelo.github.io/projects/creations/docker-marketplace/">Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</a>
-         </li>
-      
-    </ul>
+    <p>Project link: <a href="https://bitbucket.org/atlassianlabs/bamboo-after-deployment-trigger/pull-requests/2/fixes-issue-2-eliminate/diff">https://bitbucket.org/atlassianlabs/bamboo-after-deployment-trigger/pull-requests/2/fixes-issue-2-eliminate/diff</a></p>
+    <ul class="tags">
+    
+      <li><a class="tag" href="/tags/java">Java</a></li>
+    
+      <li><a class="tag" href="/tags/jquery">jQuery</a></li>
+    
+      <li><a class="tag" href="/tags/rest-apis">REST APIs</a></li>
+    
+      <li><a class="tag" href="/tags/bamboo">Bamboo</a></li>
+    
+      <li><a class="tag" href="/tags/json">JSON</a></li>
+    
+</ul>
+
   </div>
 </section>
 

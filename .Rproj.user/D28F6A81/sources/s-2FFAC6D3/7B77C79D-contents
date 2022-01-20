@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>bash/shell</title>
-  <meta property="og:title" content="bash/shell" />
+  <title>Schema.org Structured Data documentation fixes</title>
+  <meta property="og:title" content="Schema.org Structured Data documentation fixes" />
   <meta property="og:image" content="https://silviadangelo.github.io/img/foto_profilo.jpg" />
   <meta name="description" content="Assistant Professor in Statistics at University College Dublin">
   <meta property="og:description" content="Assistant Professor in Statistics at University College Dublin" />
@@ -43,10 +43,6 @@
       </li>
       
       
-      
-      
-      
-       
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#talks">Talks</a>
           </li>
@@ -73,22 +69,53 @@
 
   <div class="container-fluid p-0">
     
+<nav aria-label="breadcrumb">
+  <ol  class="breadcrumb">
+    
+
+
+
+
+
+
+
+<li class="breadcrumb-item">
+  <a href="https://silviadangelo.github.io/">Home</a>
+</li>
+
+
+<li class="breadcrumb-item">
+  <a href="https://silviadangelo.github.io/projects/">Projects</a>
+</li>
+
+
+<li class="breadcrumb-item">
+  <a href="https://silviadangelo.github.io/projects/contributions/">Software</a>
+</li>
+
+
+<li class="breadcrumb-item active">
+  <a href="https://silviadangelo.github.io/projects/contributions/schema-org/">Schema.org Structured Data documentation fixes</a>
+</li>
+
+  </ol>
+</nav>
+
+
+
 
 <section class="resume-section p-3 p-lg-5 d-flex d-column">
   <div class="my-auto">
+    <h2 class="mb-0"><span class="text-primary">Schema.org Structured Data documentation fixes</span></h2>
+    <p>While adding <em>Structured Data</em> to a client's website I found some example JSON that was invalid.  Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</p>
 
-  Content tagged with  <span class="tag">bash/shell</span>
-    <ul>
-      
-          <li>
-             <a href="https://silviadangelo.github.io/projects/creations/bosh-agents/">BOSH release for Bamboo &amp; Remote Agents</a>
-         </li>
-      
-          <li>
-             <a href="https://silviadangelo.github.io/projects/creations/docker-marketplace/">Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</a>
-         </li>
-      
-    </ul>
+    <p>Project link: <a href="https://github.com/schemaorg/schemaorg/pull/1120">https://github.com/schemaorg/schemaorg/pull/1120</a></p>
+    <ul class="tags">
+    
+      <li><a class="tag" href="/tags/json">JSON</a></li>
+    
+</ul>
+
   </div>
 </section>
 
