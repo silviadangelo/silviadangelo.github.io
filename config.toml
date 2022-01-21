@@ -16,10 +16,9 @@ theme = "hugo-resume"
     favicon = "/favicon.ico"
     # what sections
     showEducation = true
-    showResearch = true
     showProjects = false
     showOpenSource = false
-    showPublications = false
+    showPublications = true
     showExperience = false
     showTalks = true
     showSoftware = true
