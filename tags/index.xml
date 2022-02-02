@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>bash/shell</title>
+      <title>Bash/Shell</title>
       <link>https://silviadangelo.github.io/tags/bash/shell/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
@@ -66,7 +66,7 @@
     </item>
     
     <item>
-      <title>python</title>
+      <title>Python</title>
       <link>https://silviadangelo.github.io/tags/python/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
@@ -89,33 +89,6 @@
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
       <guid>https://silviadangelo.github.io/tags/xml/xslt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>https://silviadangelo.github.io/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://silviadangelo.github.io/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>https://silviadangelo.github.io/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://silviadangelo.github.io/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>https://silviadangelo.github.io/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://silviadangelo.github.io/tags/regression/</guid>
       <description></description>
     </item>
     
@@ -210,7 +183,7 @@
     </item>
     
     <item>
-      <title>JavaScript</title>
+      <title>Javascript</title>
       <link>https://silviadangelo.github.io/tags/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -228,38 +201,11 @@
     </item>
     
     <item>
-      <title>jQuery</title>
-      <link>https://silviadangelo.github.io/tags/jquery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://silviadangelo.github.io/tags/jquery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JSON</title>
-      <link>https://silviadangelo.github.io/tags/json/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://silviadangelo.github.io/tags/json/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Maven</title>
       <link>https://silviadangelo.github.io/tags/maven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://silviadangelo.github.io/tags/maven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>node.js</title>
-      <link>https://silviadangelo.github.io/tags/node.js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://silviadangelo.github.io/tags/node.js/</guid>
       <description></description>
     </item>
     

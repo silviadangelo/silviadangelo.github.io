@@ -1,40 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on Silvia D&#39;Angelo</title>
+    <title>Open source software on Silvia D&#39;Angelo</title>
     <link>https://silviadangelo.github.io/projects/contributions/</link>
-    <description>Recent content in Software on Silvia D&#39;Angelo</description>
+    <description>Recent content in Open source software on Silvia D&#39;Angelo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:49:15 +0000</lastBuildDate>
     
 	<atom:link href="https://silviadangelo.github.io/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Atlassian Deployment Triggers</title>
-      <link>https://silviadangelo.github.io/projects/contributions/deploy-triggers/</link>
+      <title>Bio-Intake web application</title>
+      <link>https://silviadangelo.github.io/projects/contributions/biointake/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://silviadangelo.github.io/projects/contributions/deploy-triggers/</guid>
-      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+      <guid>https://silviadangelo.github.io/projects/contributions/biointake/</guid>
+      <description>Bio-Intake (Biomarker guided dietary intake) allows users to upload mean daily self-reported citrus intake data (g/day) (estimated from food diaries) and computes calibrated intakes (g/day) based on a biomarker calibration equation. The biomarker based calibration equation was developed from urinary proline betaine and mean daily intake (estimated from a 4 day food diary) and is used to correct self-report estimates for measurement error.</description>
     </item>
     
     <item>
-      <title>Added Docker Build Status Badge to shields.io</title>
-      <link>https://silviadangelo.github.io/projects/contributions/shields-docker/</link>
+      <title>multiMarker R package</title>
+      <link>https://silviadangelo.github.io/projects/contributions/multimarker_cran/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://silviadangelo.github.io/projects/contributions/shields-docker/</guid>
-      <description>Shields.io is a massive library of badges that can be inserted into project README&#39;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+      <guid>https://silviadangelo.github.io/projects/contributions/multimarker_cran/</guid>
+      <description>A latent variable model based on factor analytic and mixture of experts models, designed to infer food intake from multiple biomarkers data. The model is framed within a Bayesian hierarchical framework, which provides flexibility to adapt to different biomarker distributions and facilitates inference on food intake from biomarker data alone, along with the associated uncertainty. Details are in D&#39;Angelo, et al. (2020) arXiv:2006.02995.</description>
     </item>
     
     <item>
-      <title>Schema.org Structured Data documentation fixes</title>
-      <link>https://silviadangelo.github.io/projects/contributions/schema-org/</link>
+      <title>multiMarker web application</title>
+      <link>https://silviadangelo.github.io/projects/contributions/multimarker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://silviadangelo.github.io/projects/contributions/schema-org/</guid>
-      <description>While adding Structured Data to a client&#39;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+      <guid>https://silviadangelo.github.io/projects/contributions/multimarker/</guid>
+      <description>multiMarker is a web application that infers the relationship between biomarker and food quantity data from an intervention study, and allows prediction of food intake when only biomarker data are available. Additionally, multiMarker provides quantification of the uncertainty in intake predictions.</description>
+    </item>
+    
+    <item>
+      <title>spaceNet R package</title>
+      <link>https://silviadangelo.github.io/projects/contributions/spacenet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://silviadangelo.github.io/projects/contributions/spacenet/</guid>
+      <description>Latent space models for multivariate networks (multiplex) estimated via MCMC algorithm. See D Angelo et al. (2018) arXiv:1803.07166 and D Angelo et al. (2018) arXiv:1807.03874.</description>
     </item>
     
   </channel>

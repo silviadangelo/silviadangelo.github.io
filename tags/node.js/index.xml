@@ -6,6 +6,7 @@
     <description>Recent content in node.js on Silvia D&#39;Angelo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
     
 	<atom:link href="https://silviadangelo.github.io/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +14,7 @@
     <item>
       <title>Added Docker Build Status Badge to shields.io</title>
       <link>https://silviadangelo.github.io/projects/contributions/shields-docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
       <guid>https://silviadangelo.github.io/projects/contributions/shields-docker/</guid>
       <description>Shields.io is a massive library of badges that can be inserted into project README&#39;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
