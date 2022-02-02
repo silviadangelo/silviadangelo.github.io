@@ -1,6 +1,6 @@
 ---
 sitemap:
-  priority: 0.6
+  priority: 1
 title: Preprints and Publications
 ---
 

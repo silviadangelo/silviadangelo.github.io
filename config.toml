@@ -15,14 +15,15 @@ theme = "hugo-resume"
     description = "Assistant Professor in Statistics at University College Dublin"
     favicon = "/favicon.ico"
     # what sections
-    showEducation = true
+    showEducation = false
     showProjects = false
     showOpenSource = false
     showPublications = true
+    showResearch = true
     showExperience = false
-    showTalks = true
-    showSoftware = true
-    showContact = true
+    showTalks = false
+    showSoftware = false
+    showContact = false
    # showQr = true
 
 #[[params.handles]]
