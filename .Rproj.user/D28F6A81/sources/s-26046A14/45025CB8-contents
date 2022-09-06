@@ -11,8 +11,8 @@ enableGitInfo = false
 [params]
 firstName = "Silvia"
 lastName = "D'Angelo"
-address = "Assistant Professor in Statistics at University College Dublin"
-email = "silvia.dangelo@ucd.ie"
+address = "Assistant Professor in Statistics at Trinity College Dublin"
+email = "dangelos@tcd.ie"
 favicon = "/favicon.ico"
 #firstName = "Eddie"
 #lastName = "Webb"
