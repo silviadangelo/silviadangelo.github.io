@@ -39,7 +39,7 @@ name = "Google Scholar"
 # icon = "google-scholar"
 # icon_pack = "ai"
 #icon_pack = "ai"
-link = "https://scholar.google.com/citations?user=Uk0b8MgAAAAJ&hl=en"
+link = "https://scholar.google.com/citations?user=d-Wde0EAAAAJ&hl=en"
 
 [[params.handles]]
 name = "Twitter"
